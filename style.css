@@ -1,0 +1,30 @@
+
+
+.bgclass {
+   color: white;
+   background-color:teal;
+}
+
+.intro-box {
+    color: white;
+    background-color: blueviolet;
+    width : 500;
+    height: 500;
+    padding: 10;
+    border: 1;
+    border-color: aqua;
+    float: left;
+}
+
+.form{
+    background-color: azure;
+    color : black;
+    width: 200;
+    height: 200;
+    padding: 5;
+    margin:auto;
+    width: 50%;
+    top: auto;
+    height: 50%;
+
+}
